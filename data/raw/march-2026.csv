@@ -1,0 +1,86 @@
+Line Number ,Posting Date ,Transaction ref number,MCH.Merchant Category Code (MCC),MCH.Merchant Name,FIN.Transaction Amount,Description
+1 epcs,11/03/2026,13000850819,9399,C2E956700953D UKVI,5805,Visa Sponsorship
+2 epcs,12/03/2026,13007506459,9399,C2E956800081V UKVI,4485,Visa Sponsorship
+3 epcs,11/03/2026,13000850815,9399,C2E956700940C UKVI,4485,Visa Sponsorship
+4 epcs,06/03/2026,12979772941,9399,C2E956200198P UKVI,4485,Visa Sponsorship
+5 epcs,06/03/2026,12979772947,9399,C2E956200208S UKVI,4485,Visa Sponsorship
+6 epcs,02/03/2026,11445523830,9399,C2E955800496L UKVI,4485,Visa Sponsorship
+7 epcs,02/03/2026,11445523852,9399,C2E955800566L UKVI,4485,Visa Sponsorship
+8 epcs,20/02/2026,11400856644,9399,C2E954800100L UKVI,4485,Visa Sponsorship
+9 epcs,19/02/2026,11392834822,9399,C2E954700323N UKVI,4485,Visa Sponsorship
+10 epcs,06/03/2026,12979772953,9399,C2E956200221C UKVI,3825,Visa Sponsorship
+11 epcs,02/03/2026,11445523828,9399,C2E955800481J UKVI,3825,Visa Sponsorship
+12 epcs,02/03/2026,11445523840,9399,C2E955800528O UKVI,3825,Visa Sponsorship
+13 epcs,02/03/2026,11445523842,9399,C2E955800541V UKVI,3825,Visa Sponsorship
+14 epcs,02/03/2026,11445523856,9399,C2E955800581T UKVI,3825,Visa Sponsorship
+15 epcs,20/02/2026,11400856650,9399,C2E954800107D UKVI,3825,Visa Sponsorship
+16 epcs,19/02/2026,11392834836,9399,C2E954700431K UKVI,3825,Visa Sponsorship
+17 epcs,19/02/2026,11392834830,9399,C2E954700366B UKVI,3825,Visa Sponsorship
+18 epcs,11/03/2026,13000850811,9399,C2E956700931D UKVI,3165,Visa Sponsorship
+19 epcs,06/03/2026,12979772967,9399,C2E956200247E UKVI,3165,Visa Sponsorship
+20 epcs,06/03/2026,12979772959,9399,C2E956200234D UKVI,3165,Visa Sponsorship
+21 epcs,02/03/2026,11445523824,9399,C2E955800455B UKVI,3165,Visa Sponsorship
+22 epcs,02/03/2026,11445523848,9399,C2E955800558B UKVI,3165,Visa Sponsorship
+23 epcs,19/02/2026,11392834828,9399,C2E954700358O UKVI,3165,Visa Sponsorship
+24 epcs,19/02/2026,11392834826,9399,C2E954700339E UKVI,3165,Visa Sponsorship
+25 epcs,19/02/2026,11392834834,9399,C2E954700419P UKVI,2505,Visa Sponsorship
+26 epcs,02/03/2026,11445523820,9399,C2E955800438P UKVI,1845,Visa Sponsorship
+27 epcs,02/03/2026,11445523834,9399,C2E955800509E UKVI,1845,Visa Sponsorship
+28 epcs,20/02/2026,11400856664,5734,TBL  BRENT OZAR UNLIMI,834,COMPUTER SOFTWARE STORES
+29 epcs,03/03/2026,11451046624,5815,Enterprise Rent-A-Car,676.51,DIGITAL GOODS AUDIOVISUAL MEDIA
+30 epcs,25/02/2026,11420355252,5815,THE STATIONERY OFFICE,565.86,DIGITAL GOODS AUDIOVISUAL MEDIA
+31 epcs,25/02/2026,11420355260,5815,THE STATIONERY OFFICE,551.8,DIGITAL GOODS AUDIOVISUAL MEDIA
+32 epcs,26/02/2026,11435890474,5211,THE STATIONERY OFFICE,506,DIGITAL GOODS AUDIOVISUAL MEDIA
+33 virtualpay,26/02/2026,11435890474,5211,SCREWFIX DIRECT,1995.97,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+34 virtualpay,20/02/2026,11400967456,5072,HONEY BROTHERS LTD,1810.84,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+35 virtualpay,25/02/2026,11420477874,5251,TOOLSTATION UK,1803.06,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+36 virtualpay,12/03/2026,13007586923,5732,CURRYS ONLINE,1399,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+37 virtualpay,26/02/2026,11426664418,5311,ARGOS,1349,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+38 virtualpay,05/03/2026,11464425406,5399,SP SAM TURNER SONS,1248.97,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+39 virtualpay,05/03/2026,11464425754,4112,TRAINLINE,1155.9,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+40 virtualpay,16/03/2026,13025580145,5732,CURRYS ONLINE,999,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+41 virtualpay,16/03/2026,13031007267,5211,SCREWFIX DIRECT,982.17,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+42 virtualpay,02/03/2026,11445630540,5251,TOOLSTATION UK,949.98,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+43 virtualpay,25/02/2026,11420478296,4112,TRAINLINE,846.9,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+44 virtualpay,13/03/2026,13016809383,4112,SE ONLINE WEB,813.5,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+45 virtualpay,06/03/2026,12979962633,5046,KILLER INK,800.35,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+46 virtualpay,10/03/2026,13000995483,5211,SCREWFIX DIRECT,764.63,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+47 virtualpay,06/03/2026,12979963489,5732,CURRYS ONLINE,718.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+48 virtualpay,18/03/2026,13037168227,5732,CURRYS ONLINE,699,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+49 virtualpay,13/03/2026,13016809249,4112,GREATER ANGLIA,695.5,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+50 virtualpay,06/03/2026,12979963123,4112,GREATER ANGLIA,695.5,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+51 virtualpay,16/03/2026,13031007249,5211,B&Q MARKETPLACE,686.11,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+52 virtualpay,11/03/2026,13007583801,5211,SCREWFIX DIRECT,679.98,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+53 virtualpay,16/03/2026,13025579945,4112,TRAINLINE,672.8,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+54 virtualpay,24/02/2026,11414356340,5311,ARGOS,668.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+55 virtualpay,26/02/2026,11435890478,5211,SCREWFIX DIRECT,667.93,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+56 virtualpay,24/02/2026,11414358350,4112,TRAINLINE,662.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+57 virtualpay,02/03/2026,11445630538,5046,KILLER INK,659.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+58 virtualpay,27/02/2026,11435891594,4112,C2C-ONLINE.CO.UK,636.7,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+59 virtualpay,28/02/2026,11435892040,4112,GREATER ANGLIA,631,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+60 virtualpay,24/02/2026,11414358340,4112,GREATER ANGLIA,631,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+61 virtualpay,06/03/2026,12979963387,5732,CURRYS ONLINE,629,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+62 virtualpay,25/02/2026,11420476148,4112,GREATER ANGLIA,629,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+63 virtualpay,25/02/2026,11420478264,4112,GREATER ANGLIA,629,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+64 virtualpay,25/02/2026,11420478326,5533,HALFORDS E.COMM,608.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+65 virtualpay,07/03/2026,12979964861,4112,GREATER ANGLIA,599.9,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+66 virtualpay,19/02/2026,11392909518,4112,WWW.GWR.COM,587.6,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+67 virtualpay,06/03/2026,12979964113,5211,SCREWFIX DIRECT,583.92,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+68 virtualpay,27/02/2026,11435891402,5712,DIR,562.8,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+69 virtualpay,06/03/2026,12979964109,5211,SCREWFIX DIRECT,557.31,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+70 virtualpay,17/03/2026,13031009439,4112,TRAINLINE,553.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+71 virtualpay,05/03/2026,11464425752,4112,TRAINLINE,553.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+72 virtualpay,05/03/2026,11464425418,4112,TRAINLINE,553.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+73 virtualpay,20/02/2026,11400967732,4112,THAMESLINK WEBTIS,553.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+74 virtualpay,13/03/2026,13016807397,5311,ARGOS,529,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+75 virtualpay,20/02/2026,11400968368,5211,SCREWFIX DIRECT,528.56,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+76 virtualpay,17/03/2026,13037166151,5211,SCREWFIX DIRECT,526.93,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+77 virtualpay,26/02/2026,11426664746,4112,TRAINLINE,524.2,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+78 virtualpay,20/02/2026,11400966520,4112,TRAINLINE,524.2,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+79 virtualpay,25/02/2026,11420479236,5211,SCREWFIX DIRECT,523.95,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+80 virtualpay,27/02/2026,11435891428,4112,TRAINLINE,517.3,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+81 virtualpay,06/03/2026,12979963045,4112,C2C-ONLINE.CO.UK,514.6,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+82 virtualpay,11/03/2026,13000997301,5533,HALFORDS E.COMM,512,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+83 virtualpay,16/03/2026,13031007257,5211,SCREWFIX DIRECT,509.9,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+84 virtualpay,02/03/2026,11445630686,4112,C2C-ONLINE.CO.UK,504.2,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+85 virtualpay,11/03/2026,13000997963,5045,BARGAIN HA  BARGAIN HA,501.07,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend

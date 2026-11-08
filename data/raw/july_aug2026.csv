@@ -1,0 +1,77 @@
+﻿Line Number ,Posting Date ,Transaction ref number,MCH.Merchant Category Code (MCC),MCH.Merchant Name,FIN.Transaction Amount,Description
+1 EPCS,29/07/2026,11840148006,9399,C2E970601021Q UKVI,7125,VISA SPONSORSHIP COSTS
+2 EPCS,30/07/2026,13324818545,9399,C2E970700973Z UKVI,4485,VISA SPONSORSHIP PAYMENT
+3 EPCS,10/08/2026,13324818533,9399,C2E971600523S UKVI,4485,VISA SPONSORSHIP PAYMENT
+4 EPCS,10/08/2026,13324818531,9399,C2E971600475S UKVI,4485,VISA SPONSORHIP PAYMENT
+5 EPCS,10/08/2026,11846068150,9399,C2E971600471Q UKVI,4485,VISA SPONSORSHIP PAYMENT
+6 EPCS,29/07/2026,13357524129,9399,C2E970600394M UKVI,3825,VISA SPONSORSHIP COSTS
+7 EPCS,29/07/2026,13357524119,9399,C2E970600916I UKVI,3825,VISA SPONSORSHIP COSTS
+8 EPCS,30/07/2026,13324818535,9399,C2E970700401J UKVI,3825,VISA SPONSORSHIP PAYMENT
+9 EPCS,30/07/2026,11846068138,9399,C2E970700945N UKVI,3825,VISA SPONSORSHIP PAYMENT
+10 EPCS,10/08/2026,11846068144,9399,C2E971600489I UKVI,3825,VISA SPONSORSHIP PAYMENT
+11 EPCS,17/08/2026,11840148002,9399,C2E972300934U UKVI,3825,VISA SPONSORSHIP PAYMENT
+12 EPCS,17/08/2026,11840148004,9399,C2E972300875U UKVI,3825,VISA SPONSORSHIP PAYMENT
+13 EPCS,10/08/2026,13349633235,9399,C2E971600544G UKVI,3165,VISA SPONSORSHIP PAYMENT
+14 EPCS,14/08/2026,13324818549,9399,C2E972200832C UKVI,3165,VISA SPONSORSHIP PAYMENT
+15 EPCS,17/08/2026,13357524125,9399,C2E972300904K UKVI,2505,VISA SPONSORSHIP PAYMENT
+16 EPCS,10/08/2026,13324818543,9399,C2E971600514T UKVI,1845,VISA SPONSORHSIP PAYMENT
+17 EPCS,10/08/2026,13324818541,9399,C2E971600506J UKVI,1845,VISA SPONSORSHIP PAYMENT
+18 EPCS,10/08/2026,13324818547,9399,C2E971600534S UKVI,1845,VISA SPONSORSHIP PAYMENT
+19 EPCS,10/08/2026,13324818537,9399,C2E971600500G UKVI,1845,VISA SPONSORHIP PAYMENT
+20 EPCS,04/08/2026,11863067642,5815,THE STATIONERY OFFICE,558.2,PUBLICATION FEE SI 2026/316 SOCIAL SECURITY. REMOVAL OF THE TWO CHILD LIMIT. INVOICE 3977239X
+21 EPCS,23/07/2026,13337829437,5815,THE STATIONERY OFFICE,551.8,PUBLICATION FEE SI 2026/395 UNIVERSAL CREDIT INVOICE 39772365
+22 EPCS,10/08/2026,13333022431,5815,THE STATIONERY OFFICE,551.8,PUBLICATION FEE SI 2026/5 RENT OFFICERS HOUSING BENEFIT. INVOICE 39741524
+23 EPCS,11/08/2026,13324818523,5815,THE STATIONERY OFFICE,551.8,PUBLICATION FEE SI 2026/709.THE PENSIONS ACT 2004. INVOICE 39751783
+24 EPCS,12/08/2026,11812546942,5815,THE STATIONERY OFFICE,551.8,PUBLICATION FEE
+1 A2B,31/07/2026,11854631492,7394,R-TECH WELDING EQUIPME,1440,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+2 A2B,20/07/2026,11801399160,5072,TECHTRONIC INDUSTRIES,1235.93,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+3 A2B,24/07/2026,11827371662,5085,SP TOOLS4TRADE.CO.UK,1218,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+4 A2B,20/07/2026,11801400188,5732,KANE INTERNATIONAL LTD,1138.8,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+5 A2B,18/08/2026,13371135747,5533,HALFORDS E.COMM,1114,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+6 A2B,16/07/2026,11793034742,5065,TESTMETER,1103.04,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+7 A2B,28/07/2026,11840175108,5211,SCREWFIX DIRECT,1014.96,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+8 A2B,01/08/2026,11854631946,4722,BKG HOTEL AT BOOKING.C,963,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+9 A2B,30/07/2026,13311019181,5533,HALFORDS E.COMM,959,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+10 A2B,29/07/2026,11846162086,5251,POWERTOOLMATE,933.97,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+11 A2B,31/07/2026,11854630698,4112,TRAINLINE.COM,909,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+12 A2B,05/08/2026,11873331448,5946,CAMERA WORLD LTD,899,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+13 A2B,06/08/2026,13317421809,5311,ARGOS,891.98,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+14 A2B,05/08/2026,11873331856,5211,SCREWFIX DIRECT,889.97,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+15 A2B,17/07/2026,11793034270,5211,SCREWFIX DIRECT,779.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+16 A2B,08/08/2026,13324850093,4112,C2C-ONLINE.CO.UK,753,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+17 A2B,14/08/2026,13357566497,5072,RADMORE AND TUCKER LTD,729,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+18 A2B,12/08/2026,13343592103,5311,JOHN LEWIS ONLINE,698.98,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+19 A2B,14/08/2026,13357566503,5251,BES LTD,695.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+20 A2B,07/08/2026,13324849711,4112,GREATER ANGLIA,695.5,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+21 A2B,13/08/2026,13349654777,4112,TRAINLINE,690.9,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+22 A2B,31/07/2026,11854631018,4112,TRAINLINE,687.8,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+23 A2B,22/07/2026,11812578786,4112,TRAINLINE,686.3,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+24 A2B,12/08/2026,13343592139,5251,TOOLSTATION UK,679.92,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+25 A2B,22/07/2026,11812578782,4112,GREATER ANGLIA,664,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+26 A2B,22/07/2026,11812578968,5211,SCREWFIX DIRECT,658.78,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+27 A2B,14/08/2026,13357566611,4112,GREATER ANGLIA,643.2,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+28 A2B,06/08/2026,13317423395,4722,BKG HOTEL AT BOOKING.C,638.28,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+29 A2B,30/07/2026,13311019019,4112,C2C-ONLINE.CO.UK,637.1,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+30 A2B,27/07/2026,11835400638,4112,C2C-ONLINE.CO.UK,636.7,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+31 A2B,03/08/2026,11863100868,4112,GREATER ANGLIA,629.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+32 A2B,04/08/2026,11867982892,4112,GREATER ANGLIA,629,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+33 A2B,14/08/2026,13357566283,5311,ARGOS,618,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+34 A2B,07/08/2026,13324849717,4812,HONOR,606.96,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+35 A2B,13/08/2026,13349654875,4112,C2C-ONLINE.CO.UK,600.6,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+36 A2B,30/07/2026,13311019039,4112,C2C-ONLINE.CO.UK,600.6,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+37 A2B,22/07/2026,11812578764,4112,C2C-ONLINE.CO.UK,600.6,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+38 A2B,31/07/2026,11854631448,4112,TRAINLINE,599.9,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+39 A2B,05/08/2026,11873330952,5311,ARGOS,599,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+40 A2B,03/08/2026,11863101414,5732,CURRYS ONLINE,599,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+41 A2B,31/07/2026,11854631398,5311,ARGOS,599,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+42 A2B,10/08/2026,13333046411,5311,ARGOS,579,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+43 A2B,23/07/2026,11819110732,4112,GREATER ANGLIA,571.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+44 A2B,05/08/2026,11873331570,4112,ON TRACK - SOUTHERN RA,567.6,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+45 A2B,22/07/2026,11812578180,5311,ARGOS,553.98,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+46 A2B,10/08/2026,13333046855,4112,TRAINLINE,553.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+47 A2B,28/07/2026,11840174786,4112,GREATER ANGLIA,549.9,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+48 A2B,17/07/2026,11793032936,5311,ARGOS,533.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+49 A2B,24/07/2026,11827371376,4112,TRAINLINE,531.1,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+50 A2B,17/08/2026,13365917235,4112,TRAINLINE.COM,526.1,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+51 A2B,06/08/2026,13317421075,4112,TRAINLINE,526.1,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+52 A2B,31/07/2026,11854631310,5311,ARGOS,508,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend

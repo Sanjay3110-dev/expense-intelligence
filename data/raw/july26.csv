@@ -1,0 +1,67 @@
+Line Number ,Posting Date ,Transaction ref number,MCH.Merchant Category Code (MCC),MCH.Merchant Name,FIN.Transaction Amount,Description
+epcs1,03/07/2026,13300092027,9399,C2E968000112T UKVI,"7,125.00",Visa Sponsorship Costs
+epcs2,14/07/2026,11767699880,9399,C2E969100903V UKVI,"5,805.00",Visa Sponsorship Costs
+epcs3,17/07/2026,11784938386,9399,C2E969400519Q UKVI,"4,485.00",Visa Sponsorship Costs
+epcs4,03/07/2026,13300092019,9399,C2E968000037Z UKVI,"4,485.00",Visa Sponsorship Costs
+epcs5,17/07/2026,11784938384,9399,C2E969400501B UKVI,"3,825.00",Visa Sponsorship Costs
+epcs6,03/07/2026,13300092021,9399,C2E968000048Z UKVI,"3,825.00",Visa Sponsorship Costs
+epcs7,03/07/2026,13300092023,9399,C2E968000065I UKVI,"3,825.00",Visa Sponsorship Costs
+epcs8,17/07/2026,11784938388,9399,C2E969400532A UKVI,"3,165.00",Visa Sponsorship Costs
+epcs9,17/07/2026,11784938378,9399,C2E969400460Z UKVI,"3,165.00",Visa Sponsorship Costs
+epcs10,14/07/2026,11767699882,9399,C2E969100916Z UKVI,"3,165.00",Visa Sponsorship Costs
+epcs11,10/07/2026,11751932316,9399,C2E968700277U UKVI,"3,165.00",Visa Sponsorship Costs
+epcs12,10/07/2026,11751932318,9399,C2E968700293R UKVI,"3,165.00",Visa Sponsorship Costs
+epcs13,10/07/2026,11751932320,9399,C2E968700301T UKVI,"3,165.00",Visa Sponsorship Costs
+epcs14,03/07/2026,13300092025,9399,C2E968000090E UKVI,3165,Visa Sponsorship Costs
+epcs15,17/07/2026,11784938380,9399,C2E969400476N UKVI,2505,Visa Sponsorship Costs
+epcs16,10/07/2026,11751932314,9399,C2E968700263H UKVI,2505,Visa Sponsorship Costs
+epcs17,17/07/2026,11784938382,9399,C2E969400490J UKVI,1845,Visa Sponsorship Costs
+epcs18,10/07/2026,11751932322,5815,THE STATIONERY OFFICE,582.2,Payment for Official Publishing
+epcs19,17/07/2026,11784938390,5815,THE STATIONERY OFFICE,551.8,Payment for Official Publishing
+epcs20,07/07/2026,11741210980,5815,THE STATIONERY OFFICE,551.8,Payment for Official Publishing
+virtual pay1,16/07/2026,11784964142,5571,DIRECT BIKES MOTORS LT,1899,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay2,22/06/2026,11717244956,5251,BES LTD,1834.51,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay3,08/07/2026,11745826026,5046,T   C SERVICES,1740,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay4,03/07/2026,11735065252,5211,SCREWFIX DIRECT,1399.97,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay5,10/07/2026,11759791822,5533,HALFORDS E.COMM,1273.98,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay6,24/06/2026,11727587388,4722,BKG HOTEL AT BOOKING.C,1182.21,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay7,02/07/2026,13300123979,5311,ARGOS,1158,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay8,02/07/2026,13300124421,5533,HALFORDS E.COMM,1093.97,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay9,26/06/2026,13274781311,5533,HALFORDS E.COMM,1004.5,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay10,07/07/2026,13306428337,5251,TOOLDEN,915.42,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay11,16/07/2026,11784963962,5732,CURRYS ONLINE,829,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay12,29/06/2026,13282999983,5399,AMAZON UK  9O0V48VM5,799,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay13,13/07/2026,11778777996,5039,REDBANDUKLT,781.2,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay14,10/07/2026,11759792762,5169,CLEANINGWAR,748.8,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay15,13/07/2026,11767721948,5072,RADMORE AND TUCKER LTD,725.56,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay16,22/06/2026,11717244998,5311,WWW.ARGOS.CO.UK,699,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay17,19/06/2026,13258714421,4112,GREATER ANGLIA,695.1,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay18,01/07/2026,13293780495,5399,CHRIS & SONS LTD,694.32,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay19,01/07/2026,13293780589,4112,GREATER ANGLIA,688.9,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay20,19/06/2026,13258715587,5211,SCREWFIX DIRECT,679.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay21,22/06/2026,11717244966,5251,BES LTD,664.91,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay22,16/07/2026,11784963816,4112,SWRAILWAY WEBAPP SRT,663.2,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay23,19/06/2026,13258715569,5211,SCREWFIX DIRECT,642.88,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay24,26/06/2026,13274781461,5045,DELL PRODUCTS,638.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay25,10/07/2026,11759791806,4112,GREATER ANGLIA,629,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay26,26/06/2026,13274781303,4112,GREATER ANGLIA,605.2,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay27,10/07/2026,11759791760,4112,C2C-ONLINE.CO.UK,600.6,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay28,03/07/2026,11735064972,4112,TRAINLINE,583.7,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay29,10/07/2026,11759791914,5732,CURRYS ONLINE,567.98,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay30,16/07/2026,11784964140,5977,SP WWW.HOMEOFNAILART.C,561.9,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay31,16/07/2026,11784963326,4112,TRAINLINE,557.6,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay32,15/07/2026,11778777408,5311,ARGOS,553.98,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay33,15/07/2026,11778777490,5311,ARGOS,553.98,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay34,29/06/2026,13283000187,4112,TRAINLINE,553.4,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay35,30/06/2026,13287908881,5533,HALFORDS E.COMM,544.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay36,03/07/2026,11735064824,4722,BKG HOTEL AT BOOKING.C,544,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay37,01/07/2026,13293780781,5211,SCREWFIX DIRECT,531.89,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay38,15/07/2026,11778778038,5533,HALFORDS E.COMM,529.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay39,24/06/2026,11727586578,8299,WP SALTTRAININGLIMITED,526.5,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay40,14/07/2026,11772908062,4112,GREATER ANGLIA,526.1,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay41,30/06/2026,13287908863,4112,TRAINLINE,524.2,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay42,25/06/2026,13266282517,5311,WWW.ARGOS.CO.UK,523.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay43,23/06/2026,11721411352,5311,ARGOS,518.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay44,08/07/2026,11745828604,5211,SCREWFIX DIRECT,514.99,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay45,10/07/2026,11759792282,5211,SCREWFIX DIRECT,506.23,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend
+virtual pay46,09/07/2026,11751975962,8299,ABLE SKILLS,500,Goods and services that help move customers closer to the labour market or take up/ sustain employment – Flexible Support Fund Barrier spend

@@ -1,0 +1,8 @@
+.env
+*.duckdb
+data/processed/llm_cache.json
+__pycache__/
+.venv/
+.DS_Store
+*.pyc
+.env.*
